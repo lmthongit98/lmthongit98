@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Thong 👋
 
 ## 🚀 About Me
 I am a **Java Developer** with **5 years of experience**, specializing in backend development, system design, and scalable applications. Passionate about **clean code, design patterns, microservices architecture, and performance optimization**, I continuously explore new technologies to enhance software development.
